@@ -441,9 +441,3 @@ hr {
 .credits {
   color: #999;
 }
-
-
-/* CUSTOM */
-.graph-tile-container .col-md-6 {
-    padding-bottom: 25px!important;
-}
