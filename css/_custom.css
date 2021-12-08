@@ -1,0 +1,27 @@
+/* CUSTOM */
+
+.graph-tile-container .col-md-6.col-lg-4 {
+   padding-bottom: 25px!important;
+    padding: 15px;
+    margin-top: 80px;
+}
+
+
+.graph-tile-container .col-md-6.col-lg-4 a {
+    color: #4f5074;
+}
+
+.graph-tile-container .col-md-6.col-lg-4 a :hover {
+    color: #a0a0ad;
+}
+
+.chart-info-link {
+    display: inline-block;
+    position: absolute;
+    background-color: darkgray;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: system-ui;
+    margin-right: -20px;
+    color: #282736;
+}

@@ -27,15 +27,3 @@ jQuery(document).ready(function( $ ) {
 });
 
 
-
-/* CUSTOM */
-/*  Removes ugly grey nomics ad bar below graphs */
-
-$(window).on('load', function(){
-  setTimeout(removeBars, 0001); //wait for page load + time
-});//remove the bars...
-function removeBars(){
-document.querySelectorAll('.nomics-ticker-widget-footer').forEach(function(a){
-a.remove()
-}) 
-};
