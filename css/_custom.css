@@ -25,3 +25,37 @@
     margin-right: -20px;
     color: #282736;
 }
+
+@media (min-width: 1450px) {
+
+.graph-tile-container{
+  min-width:1420px;
+}
+
+}
+
+@media (min-width: 1900px) {
+
+.graph-tile-container{
+  min-width:1850px;
+}
+
+}
+
+@media (min-width: 2350px) {
+
+.graph-tile-container{
+    min-width: 2280px;
+}
+
+}
+
+
+
+@media (min-width: 2540px) {
+
+.graph-tile-container{
+    min-width: 2500px;
+}
+
+};
